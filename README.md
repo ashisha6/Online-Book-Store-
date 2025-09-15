@@ -11,7 +11,7 @@ The database has 3 Interlinked Tables-
 This project has 3 SQL files.
 1.The first file has the creation of table and insertion of data.
 2.In the second File, Queries 1, has some basic select and where queries.
-3.The Third file, Queries 2, contains some advance queries of joins and group by.  
+3.The Third file, Queries 2, contains some advance queries of aggregate functions, joins and group by.  
 
 The overall aim of this project is to improve the retrieval speed of data and to ease the generation of insights for sales and inventory reporting.
 
