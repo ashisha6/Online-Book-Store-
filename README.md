@@ -8,7 +8,7 @@ The database has 3 Interlinked Tables-
 2. Customers: This Table has all the information about Customers like Customer_id, Name, Email, Phone, City, Country.
 3. Orders: This table is connected to the other tables and has details of orders placed in the Book Store. Its fields are Order_id, Customer_id, Book_id, Order_date, Quantity, Total_Amount.
 
-This project has 3 SQL files.
+This project has 3 SQL files-
 1.The first file has the creation of table and insertion of data.
 2.In the second File, Queries 1, has some basic select and where queries.
 3.The Third file, Queries 2, contains some advance queries of aggregate functions, joins and group by.  
